@@ -733,6 +733,11 @@ b i:last-child {
     display: block;
 }
 
+.container-fluid {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
 .portfolio_item .portfolio_item_hover {
     position: absolute;
     top: 0px;
