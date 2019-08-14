@@ -40,6 +40,8 @@ body {
     color: #999
 }
 
+
+
 .no-padding {
     padding-left: 0;
     padding-right: 0;
@@ -724,6 +726,8 @@ b i:last-child {
 }
 
 .portfolio_item {
+    max-width: 1000px;
+    max-height: 1000px;
     position: relative;
     overflow: hidden;
     display: block;
